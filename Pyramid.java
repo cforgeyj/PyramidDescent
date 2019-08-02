@@ -2,7 +2,7 @@ import java.io.File;
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.io.*;
-public class Pyramid extends BST
+public class Pyramid
 {
         //initialize global string that will store final path once it has been found
         private static String final_path;
